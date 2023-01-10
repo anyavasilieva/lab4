@@ -31,7 +31,7 @@ if (!$xml->products) $xml->addChild('products');
 <body>
 
 <header>
-	<h1>Интернет-магазин "Ромашка"</h1>
+	<h1>Интернет-магазин</h1>
 </header>
 
 <content>
